@@ -2,11 +2,12 @@
 
 ## Server
 
-- [X] Migrate from socket.io to a raw websocket connection. Ensure it auto-reconnects.
+- [x] Migrate from socket.io to a raw websocket connection. Ensure it auto-reconnects.
 - [x] Move the default server to a better host.
 - [x] Rewrite all error messages to be even more human-readable.
 - [ ] Integrate an official server list into the client.
 - [x] Detect the reason *why* the server can't provide offsets: i.e. Among Us just updated, it's an old version of Among Us, the server hasn't updated, etc.
+- [x] Repl.it support.
 
 ### Stretch
 
@@ -43,8 +44,9 @@
 - [ ] Move away from DMA and towards a different method. Probably network packet sniffing? Maybe DLL injection?
 - [x] Add Android Support.
 - [ ] Add iOS Support.
-- [X] Add Linux Support.
+- [x] Add Linux Support.
 - [ ] Support for other languages.
 - [ ] Customizable Window Size.
 - [ ] Support for Local games.
 - [ ] Ask to update and not auto update.
+- [x] Custom Color Support.
