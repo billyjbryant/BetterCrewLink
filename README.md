@@ -1,4 +1,4 @@
-[![GitHub Downloads][github-shield]][github-url] [![GPL-3.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url] [![Support BetterCrewLink][paypal-shield]][paypal-url] [![Support BetterCrewLink][kofi-shield]][kofi-url] [![Discord Server][discord-shield]][discord-url]
+[![GitHub Downloads][github-shield]][github-url] [![GPL-3.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url] [![Support BetterCrewLink][paypal-shield]][paypal-url] [![Support BetterCrewLink][kofi-shield]][kofi-url] [![Discord Server][discord-shield]][discord-url] [![Contributors][contributors-shield]][contributors-url]
 
 <br />
 <p align="center">
@@ -171,6 +171,8 @@ Any contributions you make are greatly appreciated.
 
 ## Contributors
 
+[![Contributors][contributors-shield]][contributors-url]
+
 Since GitHub does not allow you to have a list of project contributors with a fork, so I decided to make my own for the people who help the project, to be remembered with their credits.
 
 * [OhMyGuus](https://github.com/OhMyGuus) for make various things for [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink), example: NAT Fix, more overlays, support for Mobile and owner of project
@@ -207,3 +209,5 @@ Distributed under the GNU General Public License v3.0. See <a href="https://gith
 [kofi-url]: https://ko-fi.com/ohmyguus
 [discord-shield]: https://img.shields.io/discord/791516611143270410?color=cornflowerblue&label=Discord&logo=Discord&logoColor=white
 [discord-url]: https://discord.gg/qDqTzvj4SH
+[contributors-shield]: https://img.shields.io/github/contributors/OhMyGuus/BetterCrewLink?label=Contributors
+[contributors-url]: https://github.com/OhMyGuus/BetterCrewLink/graphs/contributors
