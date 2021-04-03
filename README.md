@@ -100,13 +100,16 @@ Download the latest version from [releases](https://github.com/OhMyGuus/BetterCr
 
 ## Linux
 
-To install & run it on Linux run the following commands: 
-```wget "https://mirror.bettercrewl.ink/pc/latest/BetterCrewlink-Linux.AppImage"
+To install & run it on Linux run the following commands:
+
+```
+wget "https://mirror.bettercrewl.ink/pc/latest/BetterCrewlink-Linux.AppImage"
 chmod +x BetterCrewlink-Linux.AppImage
 echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
 ./BetterCrewlink-Linux.AppImage
 ```
-The Linux version is thanks to the following contributors: 
+
+The Linux version is thanks to the following contributors:
 
 - [TheGreatMcPain](https://github.com/TheGreatMcPain) -> CrewLink fork, Keyboard watcher fork, memoryjs fork
 - [zbanks](https://github.com/zbanks) -> Memoryjs fork
