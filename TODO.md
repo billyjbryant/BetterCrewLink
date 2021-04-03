@@ -41,4 +41,5 @@
 - [ ] Move away from DMA and towards a different method. Probably network packet sniffing? Maybe DLL injection?
 - [x] Add Android Support.
 - [ ] Add iOS Support.
-- [ ] Add Linux Support. (you can see the [development](https://github.com/OhMyGuus/BetterCrewLink/tree/linux))
+- [X] Add Linux Support.
+- [ ] Support for other languages.
