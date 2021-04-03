@@ -15,6 +15,7 @@
 
 ## Voice / WebRTC
 
+- [ ] Add a microphone mute button.
 - [x] Add a microphone boost slider.
 - [x] Add a speaker adjustment slider.
 - [x] Add individual adjustment sliders to each of the players.
@@ -25,6 +26,7 @@
 - [x] Detect reason for RTC failure: NAT type, etc?
 - [x] Re-enable all `navigator.getUserMedia` functions that can be re-enabled with autoGainControl kicking in.
 - [x] Move all player-to-player communication logic to RTC data channels, versus sending them over the websocket.
+- [ ] Change VAD to send the status towards the server.
 
 ### Stretch
 
@@ -43,3 +45,6 @@
 - [ ] Add iOS Support.
 - [X] Add Linux Support.
 - [ ] Support for other languages.
+- [ ] Customizable Window Size.
+- [ ] Support for Local games.
+- [ ] Ask to update and not auto update.
