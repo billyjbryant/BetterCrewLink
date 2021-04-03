@@ -2,7 +2,7 @@
 
 ## Server
 
-- [ ] Migrate from socket.io to a raw websocket connection. Ensure it auto-reconnects.
+- [X] Migrate from socket.io to a raw websocket connection. Ensure it auto-reconnects.
 - [x] Move the default server to a better host.
 - [x] Rewrite all error messages to be even more human-readable.
 - [ ] Integrate an official server list into the client.
