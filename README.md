@@ -94,11 +94,11 @@ This project implements proximity voice chat in Among Us. Everyone in an Among U
 <!-- INSTALLATION -->
 ## Installation
 
-## Windows
+### Windows
 
 Download the latest version from [releases](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and run the `BetterCrewLink-Setup-X.X.X.exe` file. You may get antivirus warnings, because this program hooks into the Among Us process to read game data.
 
-## Linux
+### Linux
 
 To install & run it on Linux run the following commands:
 
@@ -115,11 +115,11 @@ The Linux version is thanks to the following contributors:
 - [zbanks](https://github.com/zbanks) -> Memoryjs fork
 - [Donokami](https://github.com/Donokami) -> Testing and helping  
 
-## Android
+### Android
 
 Go to category [Installation](https://github.com/OhMyGuus/BetterCrewlink-mobile#installation) in BetterCrewlink-mobile to see how to install the Android version. (requires a PC player)
 
-## iOS
+### iOS
 
 An iOS version is still being developed and will be released soon but you can use the [web version](https://web.bettercrewl.ink/). (requires a PC player)
 
@@ -172,7 +172,7 @@ Any contributions you make are greatly appreciated.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contributors
+### Contributors
 
 [![Contributors][contributors-shield]][contributors-url]
 
